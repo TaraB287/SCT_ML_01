@@ -79,5 +79,5 @@ Your project directory should look like this for the script to run correctly:
 **Tara Siddappa Busaraddi**
 
 * **GitHub**: [TaraB287](https://github.com/TaraB287)
-* **LinkedIn**: [www.linkedin.com/in/tarabusaraddi](https://www.linkedin.com/in/tarabusaraddi)
+* **LinkedIn**: [tarabusaraddi](https://www.linkedin.com/in/tarabusaraddi)
 
