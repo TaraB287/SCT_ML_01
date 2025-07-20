@@ -68,7 +68,7 @@ The final output file (`prediction test.csv`) contains the predicted sale prices
 ## File Structure
 ```
 Your project directory should look like this for the script to run correctly:
-├── House_price_prediction.py       # The main Python script
+├── House_price_prediction.ipynb    # The main Python script
 ├── task1_train.csv                 # Training data
 ├── Task1_test.csv                  # Testing data
 └── prediction_test.csv             # Generated file with predictions
